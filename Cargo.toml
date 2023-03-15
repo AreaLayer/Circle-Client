@@ -1,4 +1,4 @@
-[[dependencies]
+[dependencies]
 
 rgb-core = "0.10"
 carbonado = "0.3.0"
