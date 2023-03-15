@@ -1,5 +1,5 @@
-[dependencies]
+[[dependencies]
 
-rgb-core: "0.10"
-carbonado: "0.3.0"
-storm: "0.9"
+rgb-core = "0.10"
+carbonado = "0.3.0"
+storm = "0.9"
