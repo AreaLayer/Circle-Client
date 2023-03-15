@@ -1,4 +1,4 @@
 [dependencies]
 rgb-core: "0.10-beta"
-carbonado: "0.1"
+carbonado: "0.3.0"
 storm: "0.9"
