@@ -1,5 +1,5 @@
-[panckage]
+[dependencies]
 
-rgb-core: v0.10-beta
-carbonado: v0.1
-storm: v0.9
+rgb-core: "v0.10-beta"
+carbonado: "v0.1"
+storm: "v0.9"
