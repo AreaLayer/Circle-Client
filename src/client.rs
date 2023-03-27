@@ -1,4 +1,4 @@
-carbonado::constants::MAGICNO
+use carbonado::constants::MAGICNO
 use storm::p2p::{Chunk, ChunkId, Container, ContainerId, ContainerInfo, Mesg, MesgId}
 use rgb::schema::{verify,Root}
 
